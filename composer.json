@@ -1,0 +1,28 @@
+{
+    "name": "sahamnadeem/altorouter",
+    "require": {
+        "altorouter/altorouter": "1.1.0",
+        "ixudra/validation": "1.*",
+        "phpmailer/phpmailer": "^6.0",
+        "pyrocms/lex": "2.2.*",
+        "smarty/smarty": "~3.1",
+        "usmanhalalit/pixie": "2.*@dev"
+    },
+    "authors": [
+        {
+            "name": "sahamnadeem",
+            "email": "sahamnadeem2001@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "phploc/phploc": "^4.0"
+    },
+    "autoload": {
+        "classmap":[
+            "app/Controllers",
+            "app/Middleware",
+            "libs",
+            "app"
+        ]
+    }
+}
