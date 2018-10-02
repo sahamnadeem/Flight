@@ -6,7 +6,8 @@
         "phpmailer/phpmailer": "^6.0",
         "pyrocms/lex": "2.2.*",
         "smarty/smarty": "~3.1",
-        "usmanhalalit/pixie": "2.*@dev"
+        "usmanhalalit/pixie": "2.*@dev",
+        "phpunit/phpunit": "^7.3"
     },
     "authors": [
         {
