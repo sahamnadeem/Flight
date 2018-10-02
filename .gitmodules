@@ -1,6 +1,4 @@
-[submodule "pixie"]
-	path = pixie
-	url = https://github.com/usmanhalalit/pixie.git
+
 [submodule "vendor/usmanhalalit/pixie"]
 	path = vendor/usmanhalalit/pixie
 	url = https://github.com/usmanhalalit/pixie.git
